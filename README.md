@@ -11,3 +11,5 @@ We currently don't have a system for bounties so this will do for now.
 [@sammy007](https://github.com/sammy007) - 0xb85150eb365e7df0941f0cf08235f987ba91506a - Open-ethereum-pool developer
 
 [@tayvano](https://github.com/tayvano) - 0x7cB57B5A97eAbe94205C07890BE4c1aD31E486A8 - MyEtherWallet developers
+
+[Yifan Huang](https://twitter.com/YifanHuang5) - 0xA308bd549b40120e84736858899eD88B86f1BF10 - Chinese translation of Bitcointalk ANN, ubiq.allcanmine.net pool operator
